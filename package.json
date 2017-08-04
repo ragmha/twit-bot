@@ -1,0 +1,14 @@
+{
+  "name": "twit-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ragmha/twit-bot.git",
+  "author": "Raghib Hasan <raghibmidhat@gmail.com> (http://raghibm.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^2.2.9"
+  },
+  "devDependencies": {
+    "dotenv": "^4.0.0"
+  }
+}
